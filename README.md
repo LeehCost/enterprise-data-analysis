@@ -1,5 +1,11 @@
-⚡ Análise de Dados de Geradores de Energia
+Análise de Dados de Geradores de Energia
+⚡ Generator Data Analysis
+🇧🇷 Português
 
-Projeto de análise de dados com Python focado em transformar dados operacionais de geradores em informações úteis para tomada de decisão.
+Projeto em Python para análise de dados operacionais reais de geradores de energia.
+Os dados são tratados, analisados e apresentados em dashboards, permitindo acompanhar o desempenho dos funcionários e demandas de forma clara.
 
-A ideia foi simular um cenário real de empresa que precisa monitorar desempenho, consumo e comportamento dos equipamentos através de dashboards claros e objetivos.
+🇺🇸 English
+
+A Python project for analyzing real operational data from power generators.
+The data is processed, analyzed, and presented in dashboards, allowing clear monitoring of employee performance and demand.
